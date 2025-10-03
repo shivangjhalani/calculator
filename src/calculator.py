@@ -33,6 +33,7 @@ def divide(a, b):
     print(f"Result: {result}")
     return result
 
+
 # TODO: Students will add multiply, divide, power, sqrt functions
 
 if __name__ == "__main__":
